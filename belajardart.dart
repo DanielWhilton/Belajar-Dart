@@ -1,3 +1,3 @@
 void main(){
-  print ("Mantap");
+  print ("Mantap anjay");
 }
